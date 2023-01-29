@@ -1,2 +1,2 @@
-# fisrtproject
-fisrt steps 
+# firstproject
+first steps 
